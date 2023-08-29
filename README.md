@@ -2,6 +2,13 @@
 
 A new Flutter Chat_App project.
 
+# GIF
+
+
+https://github.com/ENGR-WAJAHAT-AHMED/Flutter_ChatApp_UI/assets/122207170/e98cdc69-0c4b-4267-b511-de644967cbed
+
+
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
